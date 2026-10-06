@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Local secrets & environment files (Never commit these)
+.env
+.venv/
+venv/
+
+# Local data files
+*.xlsx
+*.xls
+*.csv
